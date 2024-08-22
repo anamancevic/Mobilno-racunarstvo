@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.E_Biblioteka" parent="Theme.AppCompat.Light.NoActionBar" />
+
+    <style name="Theme.E_Biblioteka.Text">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+
+    <style name="Theme.E_Biblioteka.TextBold">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Theme.E_Biblioteka.Button">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:colorPrimary">@color/grey</item>
+        <item name="android:textAppearance">@id/dialog_button</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    <style name="Theme.E_Biblioteka.Heading">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">28dp</item>
+        <item name="android:colorPrimary">@color/grey</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

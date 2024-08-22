@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnerItems">
+        <item>Naslov</item>
+        <item>Autor</item>
+        <item>Godina Izdavanja</item>
+        <item>ISBN</item>
+        <item>Prikaži sve</item>
+    </string-array>
+</resources>

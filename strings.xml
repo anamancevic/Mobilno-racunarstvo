@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">E_Biblioteka</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_wcm">Dobrodošli!</string>
+    <string name="str_rnt">Iznajmite knjigu</string>
+    <string name="str_ret">Vratite knjigu</string>
+    <string name="str_ext">Izlaz</string>
+    <string name="str_eml">E-mail:</string>
+    <string name="str_pwd">Lozinka:</string>
+    <string name="hnt_eml">E-mail</string>
+    <string name="hnt_pwd">Lozinka</string>
+    <string name="str_rpwd">Potvrda lozinke:</string>
+    <string name="str_heading">E-Biblioteka</string>
+    <string name="str_headingnovi">Novi nalog</string>
+    <string name="str_kreirajnalog">Kreiraj nalog</string>
+    <string name="str_prijava">Prijava</string>
+    <string name="str_iznajmi">Iznajmi</string>
+    <string name="str_vrati">Vrati</string>
+    <string name="str_knjigavracena">Knjiga vraćena.</string>
+    <string name="str_knjigaiznajmljena">Knjiga iznajmljena.</string>
+    <string name="str_nemapodudaranja">Nema pronađenih knjiga.</string>
+    <string name="str_nemaiznajmljenih">Nemate iznajmljenih knjiga.</string>
+    <string name="str_nemaknjiga">Nema knjiga za prikaz.</string>
+    <string name="str_greskaprijava">Greška prilikom prijavljivanja korisnika.</string>
+    <string name="str_greskakreiranje">Greška prilikom kreiranja korisnika.</string>
+    <string name="str_obavezanemail">Obavezno je popuniti e-mail.</string>
+    <string name="str_obaveznalozinka">Obavezno je popuniti lozinku.</string>
+    <string name="str_lozinkaseneslaze">Lozinka i ponovljena lozinka se ne slažu.</string>
+    <string name="str_naslov">Naslov:</string>
+    <string name="str_autor">Autor:</string>
+    <string name="str_godinaizd">Godina izadavanja:</string>
+    <string name="str_ISBN">ISBN:</string>
+    <string name="str_iznajmljena">Iznajmljena:</string>
+    <string name="str_rokvracanja">Rok vraćanja:</string>
+</resources>
