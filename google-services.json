@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044474925478",
+    "project_id": "e-biblioteka-df9a4",
+    "storage_bucket": "e-biblioteka-df9a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044474925478:android:b082410486b1c6bad7ff67",
+        "android_client_info": {
+          "package_name": "com.dam.e_biblioteka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFkyweaMX8slrODSbKDi3TRll7R6092Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
